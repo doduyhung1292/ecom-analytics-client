@@ -143,6 +143,8 @@ export default {
       .catch(e => {
         console.log(e);
       })
+      } else {
+        alert("Vui lòng chọn ngành hàng!");
       }
   }
   }
